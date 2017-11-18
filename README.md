@@ -1,4 +1,4 @@
-# Tutorial: Hypothesis – Tests that write themselves
+# Tutorial: Writing tests that write themselves
 
 Code and slides for my Hypothesis tutorial at PyCon Canada 2017.
 All dependencies needed are listed in `requirements.txt`.
