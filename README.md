@@ -4,6 +4,10 @@ Code and slides for my Hypothesis tutorial at PyCon Canada 2017.
 All dependencies needed are listed in `requirements.txt`.
 Was written for Python 2.7.12 but any version of 2.7 should work.
 
+SSID: Visiteurs UQAM
+User: pycon001
+pass: x6u4Z5W4
+
 ### Quickstart
 1. Make sure you have `Python 2.7` and `pip` installed
 2. Git clone this repo or download the zip file: https://github.com/dkua/hypothesis-tutorial/archive/master.zip
