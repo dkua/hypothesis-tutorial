@@ -4,30 +4,21 @@ Code and slides for my Hypothesis tutorial at PyCon Canada 2017.
 All dependencies needed are listed in `requirements.txt`.
 Was written for Python 2.7.12 but any version of 2.7 should work.
 
-### Installation
-```
-pip install requirements.txt
-```
+### Quickstart
+1. Make sure you have `Python 2.7` and `pip` installed
+2. Git clone this repo or download the zip file: https://github.com/dkua/hypothesis-tutorial/archive/master.zip
+3. Once cloned or unzipped, go into the `hypothesis-tutorial` folder
+4. Run `pip install -r requirements.txt`
 
 ### Running the code
+Inside of the `hypothesis-tutorial` folder:
 ```
-pytest <example_file>.py
+pytest <exercise folder>
 ```
 If you want to run with extra Hypothesis stats:
 ```
-pytest --hypothesis-show-statistics <example_file>.py
+pytest --hypothesis-show-statistics <exercise folder>
 ```
-
-### Following along
-If you're following along with the slides the order in which to run the examples are alphabetically or more specifically.
-
-1. add_example.py
-2. book_example.py
-3. book_example_fixed.py
-4. cart_example1.py
-5. cart_example1_fixed.py
-6. cart_example2.py
-7. cart_example2_fixed.py
 
 ### Extra materials
 A copy of the QuickCheck paper can be found in this repo.
