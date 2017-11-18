@@ -21,7 +21,10 @@ pytest --hypothesis-show-statistics <exercise folder>
 ```
 
 ### Extra materials
-A copy of the QuickCheck paper can be found in this repo.
+Hypothesis documentation: http://hypothesis.readthedocs.io/
+
+Hypothesis GitHub repo: https://github.com/HypothesisWorks/hypothesis-python/
 
 The talk version of this tutorial from PyCon Canada 2016 is online at: https://www.youtube.com/watch?v=SQcCmCyuVyo
 
+A copy of the QuickCheck paper can be found in this repo.
