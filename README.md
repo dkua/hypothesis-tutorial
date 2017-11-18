@@ -10,7 +10,7 @@ Was written for Python 2.7.12 but any version of 2.7 should work.
 3. Once cloned or unzipped, go into the `hypothesis-tutorial` folder
 4. Run `pip install -r requirements.txt`
 
-### Running the code
+### Running the exercises
 Inside of the `hypothesis-tutorial` folder:
 ```
 pytest <exercise folder>
@@ -22,4 +22,6 @@ pytest --hypothesis-show-statistics <exercise folder>
 
 ### Extra materials
 A copy of the QuickCheck paper can be found in this repo.
+
+The talk version of this tutorial from PyCon Canada 2016 is online at: https://www.youtube.com/watch?v=SQcCmCyuVyo
 
